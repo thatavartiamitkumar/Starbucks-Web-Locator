@@ -1,0 +1,205 @@
+D:\fall-14\database\assign2\Starbucks\Starbucks\bin\Starbucks.dll
+D:\fall-14\database\assign2\Starbucks\Starbucks\bin\Starbucks.pdb
+D:\fall-14\database\assign2\Starbucks\Starbucks\bin\Antlr3.Runtime.dll
+D:\fall-14\database\assign2\Starbucks\Starbucks\bin\AspNet.ScriptManager.jQuery.dll
+D:\fall-14\database\assign2\Starbucks\Starbucks\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+D:\fall-14\database\assign2\Starbucks\Starbucks\bin\DotNetOpenAuth.AspNet.dll
+D:\fall-14\database\assign2\Starbucks\Starbucks\bin\DotNetOpenAuth.Core.dll
+D:\fall-14\database\assign2\Starbucks\Starbucks\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\fall-14\database\assign2\Starbucks\Starbucks\bin\DotNetOpenAuth.OAuth.dll
+D:\fall-14\database\assign2\Starbucks\Starbucks\bin\DotNetOpenAuth.OpenId.dll
+D:\fall-14\database\assign2\Starbucks\Starbucks\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\fall-14\database\assign2\Starbucks\Starbucks\bin\EntityFramework.dll
+D:\fall-14\database\assign2\Starbucks\Starbucks\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+D:\fall-14\database\assign2\Starbucks\Starbucks\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\fall-14\database\assign2\Starbucks\Starbucks\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\fall-14\database\assign2\Starbucks\Starbucks\bin\Microsoft.ScriptManager.WebForms.dll
+D:\fall-14\database\assign2\Starbucks\Starbucks\bin\Microsoft.Web.Infrastructure.dll
+D:\fall-14\database\assign2\Starbucks\Starbucks\bin\System.Web.Optimization.dll
+D:\fall-14\database\assign2\Starbucks\Starbucks\bin\System.Web.Providers.dll
+D:\fall-14\database\assign2\Starbucks\Starbucks\bin\WebGrease.dll
+D:\fall-14\database\assign2\Starbucks\Starbucks\bin\EntityFramework.xml
+D:\fall-14\database\assign2\Starbucks\Starbucks\bin\DotNetOpenAuth.Core.xml
+D:\fall-14\database\assign2\Starbucks\Starbucks\bin\DotNetOpenAuth.OAuth.xml
+D:\fall-14\database\assign2\Starbucks\Starbucks\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\fall-14\database\assign2\Starbucks\Starbucks\bin\DotNetOpenAuth.OpenId.xml
+D:\fall-14\database\assign2\Starbucks\Starbucks\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\fall-14\database\assign2\Starbucks\Starbucks\bin\DotNetOpenAuth.AspNet.xml
+D:\fall-14\database\assign2\Starbucks\Starbucks\obj\Debug\Starbucks.csprojResolveAssemblyReference.cache
+D:\fall-14\database\assign2\Starbucks\Starbucks\obj\Debug\Starbucks.dll
+D:\fall-14\database\assign2\Starbucks\Starbucks\obj\Debug\Starbucks.pdb
+C:\Users\Owner\Documents\Visual Studio 2012\Projects\Starbucks\Starbucks\bin\Starbucks.dll
+C:\Users\Owner\Documents\Visual Studio 2012\Projects\Starbucks\Starbucks\bin\Starbucks.pdb
+C:\Users\Owner\Documents\Visual Studio 2012\Projects\Starbucks\Starbucks\bin\Antlr3.Runtime.dll
+C:\Users\Owner\Documents\Visual Studio 2012\Projects\Starbucks\Starbucks\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Owner\Documents\Visual Studio 2012\Projects\Starbucks\Starbucks\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\Owner\Documents\Visual Studio 2012\Projects\Starbucks\Starbucks\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Owner\Documents\Visual Studio 2012\Projects\Starbucks\Starbucks\bin\DotNetOpenAuth.Core.dll
+C:\Users\Owner\Documents\Visual Studio 2012\Projects\Starbucks\Starbucks\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Owner\Documents\Visual Studio 2012\Projects\Starbucks\Starbucks\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Owner\Documents\Visual Studio 2012\Projects\Starbucks\Starbucks\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Owner\Documents\Visual Studio 2012\Projects\Starbucks\Starbucks\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Owner\Documents\Visual Studio 2012\Projects\Starbucks\Starbucks\bin\EntityFramework.dll
+C:\Users\Owner\Documents\Visual Studio 2012\Projects\Starbucks\Starbucks\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\Owner\Documents\Visual Studio 2012\Projects\Starbucks\Starbucks\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Owner\Documents\Visual Studio 2012\Projects\Starbucks\Starbucks\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Owner\Documents\Visual Studio 2012\Projects\Starbucks\Starbucks\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Owner\Documents\Visual Studio 2012\Projects\Starbucks\Starbucks\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Owner\Documents\Visual Studio 2012\Projects\Starbucks\Starbucks\bin\System.Web.Optimization.dll
+C:\Users\Owner\Documents\Visual Studio 2012\Projects\Starbucks\Starbucks\bin\System.Web.Providers.dll
+C:\Users\Owner\Documents\Visual Studio 2012\Projects\Starbucks\Starbucks\bin\WebGrease.dll
+C:\Users\Owner\Documents\Visual Studio 2012\Projects\Starbucks\Starbucks\bin\EntityFramework.xml
+C:\Users\Owner\Documents\Visual Studio 2012\Projects\Starbucks\Starbucks\bin\DotNetOpenAuth.Core.xml
+C:\Users\Owner\Documents\Visual Studio 2012\Projects\Starbucks\Starbucks\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Owner\Documents\Visual Studio 2012\Projects\Starbucks\Starbucks\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Owner\Documents\Visual Studio 2012\Projects\Starbucks\Starbucks\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Owner\Documents\Visual Studio 2012\Projects\Starbucks\Starbucks\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Owner\Documents\Visual Studio 2012\Projects\Starbucks\Starbucks\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Owner\Documents\Visual Studio 2012\Projects\Starbucks\Starbucks\obj\Debug\Starbucks.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Documents\Visual Studio 2012\Projects\Starbucks\Starbucks\obj\Debug\Starbucks.dll
+C:\Users\Owner\Documents\Visual Studio 2012\Projects\Starbucks\Starbucks\obj\Debug\Starbucks.pdb
+D:\fall-14\database\assign2\Starbucks@Santhosh\Starbucks\Starbucks\Starbucks\bin\Starbucks.dll
+D:\fall-14\database\assign2\Starbucks@Santhosh\Starbucks\Starbucks\Starbucks\bin\Starbucks.pdb
+D:\fall-14\database\assign2\Starbucks@Santhosh\Starbucks\Starbucks\Starbucks\bin\Antlr3.Runtime.dll
+D:\fall-14\database\assign2\Starbucks@Santhosh\Starbucks\Starbucks\Starbucks\bin\AspNet.ScriptManager.jQuery.dll
+D:\fall-14\database\assign2\Starbucks@Santhosh\Starbucks\Starbucks\Starbucks\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+D:\fall-14\database\assign2\Starbucks@Santhosh\Starbucks\Starbucks\Starbucks\bin\DotNetOpenAuth.AspNet.dll
+D:\fall-14\database\assign2\Starbucks@Santhosh\Starbucks\Starbucks\Starbucks\bin\DotNetOpenAuth.Core.dll
+D:\fall-14\database\assign2\Starbucks@Santhosh\Starbucks\Starbucks\Starbucks\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\fall-14\database\assign2\Starbucks@Santhosh\Starbucks\Starbucks\Starbucks\bin\DotNetOpenAuth.OAuth.dll
+D:\fall-14\database\assign2\Starbucks@Santhosh\Starbucks\Starbucks\Starbucks\bin\DotNetOpenAuth.OpenId.dll
+D:\fall-14\database\assign2\Starbucks@Santhosh\Starbucks\Starbucks\Starbucks\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\fall-14\database\assign2\Starbucks@Santhosh\Starbucks\Starbucks\Starbucks\bin\EntityFramework.dll
+D:\fall-14\database\assign2\Starbucks@Santhosh\Starbucks\Starbucks\Starbucks\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+D:\fall-14\database\assign2\Starbucks@Santhosh\Starbucks\Starbucks\Starbucks\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\fall-14\database\assign2\Starbucks@Santhosh\Starbucks\Starbucks\Starbucks\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\fall-14\database\assign2\Starbucks@Santhosh\Starbucks\Starbucks\Starbucks\bin\Microsoft.ScriptManager.WebForms.dll
+D:\fall-14\database\assign2\Starbucks@Santhosh\Starbucks\Starbucks\Starbucks\bin\Microsoft.Web.Infrastructure.dll
+D:\fall-14\database\assign2\Starbucks@Santhosh\Starbucks\Starbucks\Starbucks\bin\System.Web.Optimization.dll
+D:\fall-14\database\assign2\Starbucks@Santhosh\Starbucks\Starbucks\Starbucks\bin\System.Web.Providers.dll
+D:\fall-14\database\assign2\Starbucks@Santhosh\Starbucks\Starbucks\Starbucks\bin\WebGrease.dll
+D:\fall-14\database\assign2\Starbucks@Santhosh\Starbucks\Starbucks\Starbucks\bin\EntityFramework.xml
+D:\fall-14\database\assign2\Starbucks@Santhosh\Starbucks\Starbucks\Starbucks\bin\DotNetOpenAuth.Core.xml
+D:\fall-14\database\assign2\Starbucks@Santhosh\Starbucks\Starbucks\Starbucks\bin\DotNetOpenAuth.OAuth.xml
+D:\fall-14\database\assign2\Starbucks@Santhosh\Starbucks\Starbucks\Starbucks\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\fall-14\database\assign2\Starbucks@Santhosh\Starbucks\Starbucks\Starbucks\bin\DotNetOpenAuth.OpenId.xml
+D:\fall-14\database\assign2\Starbucks@Santhosh\Starbucks\Starbucks\Starbucks\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\fall-14\database\assign2\Starbucks@Santhosh\Starbucks\Starbucks\Starbucks\bin\DotNetOpenAuth.AspNet.xml
+D:\fall-14\database\assign2\Starbucks@Santhosh\Starbucks\Starbucks\Starbucks\obj\Debug\Starbucks.csprojResolveAssemblyReference.cache
+D:\fall-14\database\assign2\Starbucks@Santhosh\Starbucks\Starbucks\Starbucks\obj\Debug\Starbucks.dll
+D:\fall-14\database\assign2\Starbucks@Santhosh\Starbucks\Starbucks\Starbucks\obj\Debug\Starbucks.pdb
+D:\fall-14\database\assign2\StarbucksDb\Starbucks\bin\Starbucks.dll
+D:\fall-14\database\assign2\StarbucksDb\Starbucks\bin\Starbucks.pdb
+D:\fall-14\database\assign2\StarbucksDb\Starbucks\bin\Antlr3.Runtime.dll
+D:\fall-14\database\assign2\StarbucksDb\Starbucks\bin\AspNet.ScriptManager.jQuery.dll
+D:\fall-14\database\assign2\StarbucksDb\Starbucks\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+D:\fall-14\database\assign2\StarbucksDb\Starbucks\bin\DotNetOpenAuth.AspNet.dll
+D:\fall-14\database\assign2\StarbucksDb\Starbucks\bin\DotNetOpenAuth.Core.dll
+D:\fall-14\database\assign2\StarbucksDb\Starbucks\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\fall-14\database\assign2\StarbucksDb\Starbucks\bin\DotNetOpenAuth.OAuth.dll
+D:\fall-14\database\assign2\StarbucksDb\Starbucks\bin\DotNetOpenAuth.OpenId.dll
+D:\fall-14\database\assign2\StarbucksDb\Starbucks\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\fall-14\database\assign2\StarbucksDb\Starbucks\bin\EntityFramework.dll
+D:\fall-14\database\assign2\StarbucksDb\Starbucks\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+D:\fall-14\database\assign2\StarbucksDb\Starbucks\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\fall-14\database\assign2\StarbucksDb\Starbucks\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\fall-14\database\assign2\StarbucksDb\Starbucks\bin\Microsoft.ScriptManager.WebForms.dll
+D:\fall-14\database\assign2\StarbucksDb\Starbucks\bin\Microsoft.Web.Infrastructure.dll
+D:\fall-14\database\assign2\StarbucksDb\Starbucks\bin\System.Web.Optimization.dll
+D:\fall-14\database\assign2\StarbucksDb\Starbucks\bin\System.Web.Providers.dll
+D:\fall-14\database\assign2\StarbucksDb\Starbucks\bin\WebGrease.dll
+D:\fall-14\database\assign2\StarbucksDb\Starbucks\bin\EntityFramework.xml
+D:\fall-14\database\assign2\StarbucksDb\Starbucks\bin\DotNetOpenAuth.Core.xml
+D:\fall-14\database\assign2\StarbucksDb\Starbucks\bin\DotNetOpenAuth.OAuth.xml
+D:\fall-14\database\assign2\StarbucksDb\Starbucks\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\fall-14\database\assign2\StarbucksDb\Starbucks\bin\DotNetOpenAuth.OpenId.xml
+D:\fall-14\database\assign2\StarbucksDb\Starbucks\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\fall-14\database\assign2\StarbucksDb\Starbucks\bin\DotNetOpenAuth.AspNet.xml
+D:\fall-14\database\assign2\StarbucksDb\Starbucks\obj\Debug\Starbucks.csprojResolveAssemblyReference.cache
+D:\fall-14\database\assign2\StarbucksDb\Starbucks\obj\Debug\Starbucks.dll
+D:\fall-14\database\assign2\StarbucksDb\Starbucks\obj\Debug\Starbucks.pdb
+D:\fall-14\database\assign2\Starbucks&DunkinDonuts\StarbucksDb\Starbucks\bin\Starbucks.dll
+D:\fall-14\database\assign2\Starbucks&DunkinDonuts\StarbucksDb\Starbucks\bin\Starbucks.pdb
+D:\fall-14\database\assign2\Starbucks&DunkinDonuts\StarbucksDb\Starbucks\bin\Antlr3.Runtime.dll
+D:\fall-14\database\assign2\Starbucks&DunkinDonuts\StarbucksDb\Starbucks\bin\AspNet.ScriptManager.jQuery.dll
+D:\fall-14\database\assign2\Starbucks&DunkinDonuts\StarbucksDb\Starbucks\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+D:\fall-14\database\assign2\Starbucks&DunkinDonuts\StarbucksDb\Starbucks\bin\DotNetOpenAuth.AspNet.dll
+D:\fall-14\database\assign2\Starbucks&DunkinDonuts\StarbucksDb\Starbucks\bin\DotNetOpenAuth.Core.dll
+D:\fall-14\database\assign2\Starbucks&DunkinDonuts\StarbucksDb\Starbucks\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\fall-14\database\assign2\Starbucks&DunkinDonuts\StarbucksDb\Starbucks\bin\DotNetOpenAuth.OAuth.dll
+D:\fall-14\database\assign2\Starbucks&DunkinDonuts\StarbucksDb\Starbucks\bin\DotNetOpenAuth.OpenId.dll
+D:\fall-14\database\assign2\Starbucks&DunkinDonuts\StarbucksDb\Starbucks\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\fall-14\database\assign2\Starbucks&DunkinDonuts\StarbucksDb\Starbucks\bin\EntityFramework.dll
+D:\fall-14\database\assign2\Starbucks&DunkinDonuts\StarbucksDb\Starbucks\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+D:\fall-14\database\assign2\Starbucks&DunkinDonuts\StarbucksDb\Starbucks\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\fall-14\database\assign2\Starbucks&DunkinDonuts\StarbucksDb\Starbucks\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\fall-14\database\assign2\Starbucks&DunkinDonuts\StarbucksDb\Starbucks\bin\Microsoft.ScriptManager.WebForms.dll
+D:\fall-14\database\assign2\Starbucks&DunkinDonuts\StarbucksDb\Starbucks\bin\Microsoft.Web.Infrastructure.dll
+D:\fall-14\database\assign2\Starbucks&DunkinDonuts\StarbucksDb\Starbucks\bin\System.Web.Optimization.dll
+D:\fall-14\database\assign2\Starbucks&DunkinDonuts\StarbucksDb\Starbucks\bin\System.Web.Providers.dll
+D:\fall-14\database\assign2\Starbucks&DunkinDonuts\StarbucksDb\Starbucks\bin\WebGrease.dll
+D:\fall-14\database\assign2\Starbucks&DunkinDonuts\StarbucksDb\Starbucks\bin\EntityFramework.xml
+D:\fall-14\database\assign2\Starbucks&DunkinDonuts\StarbucksDb\Starbucks\bin\DotNetOpenAuth.Core.xml
+D:\fall-14\database\assign2\Starbucks&DunkinDonuts\StarbucksDb\Starbucks\bin\DotNetOpenAuth.OAuth.xml
+D:\fall-14\database\assign2\Starbucks&DunkinDonuts\StarbucksDb\Starbucks\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\fall-14\database\assign2\Starbucks&DunkinDonuts\StarbucksDb\Starbucks\bin\DotNetOpenAuth.OpenId.xml
+D:\fall-14\database\assign2\Starbucks&DunkinDonuts\StarbucksDb\Starbucks\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\fall-14\database\assign2\Starbucks&DunkinDonuts\StarbucksDb\Starbucks\bin\DotNetOpenAuth.AspNet.xml
+D:\fall-14\database\assign2\Starbucks&DunkinDonuts\StarbucksDb\Starbucks\obj\Debug\Starbucks.csprojResolveAssemblyReference.cache
+D:\fall-14\database\assign2\Starbucks&DunkinDonuts\StarbucksDb\Starbucks\obj\Debug\Starbucks.dll
+D:\fall-14\database\assign2\Starbucks&DunkinDonuts\StarbucksDb\Starbucks\obj\Debug\Starbucks.pdb
+\\psf\Home\Documents\workspace\StarbucksDb\Starbucks\bin\Starbucks.dll
+\\psf\Home\Documents\workspace\StarbucksDb\Starbucks\bin\Starbucks.pdb
+\\psf\Home\Documents\workspace\StarbucksDb\Starbucks\bin\Antlr3.Runtime.dll
+\\psf\Home\Documents\workspace\StarbucksDb\Starbucks\bin\AspNet.ScriptManager.jQuery.dll
+\\psf\Home\Documents\workspace\StarbucksDb\Starbucks\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+\\psf\Home\Documents\workspace\StarbucksDb\Starbucks\bin\DotNetOpenAuth.AspNet.dll
+\\psf\Home\Documents\workspace\StarbucksDb\Starbucks\bin\DotNetOpenAuth.Core.dll
+\\psf\Home\Documents\workspace\StarbucksDb\Starbucks\bin\DotNetOpenAuth.OAuth.Consumer.dll
+\\psf\Home\Documents\workspace\StarbucksDb\Starbucks\bin\DotNetOpenAuth.OAuth.dll
+\\psf\Home\Documents\workspace\StarbucksDb\Starbucks\bin\DotNetOpenAuth.OpenId.dll
+\\psf\Home\Documents\workspace\StarbucksDb\Starbucks\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+\\psf\Home\Documents\workspace\StarbucksDb\Starbucks\bin\EntityFramework.dll
+\\psf\Home\Documents\workspace\StarbucksDb\Starbucks\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+\\psf\Home\Documents\workspace\StarbucksDb\Starbucks\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+\\psf\Home\Documents\workspace\StarbucksDb\Starbucks\bin\Microsoft.ScriptManager.MSAjax.dll
+\\psf\Home\Documents\workspace\StarbucksDb\Starbucks\bin\Microsoft.ScriptManager.WebForms.dll
+\\psf\Home\Documents\workspace\StarbucksDb\Starbucks\bin\Microsoft.Web.Infrastructure.dll
+\\psf\Home\Documents\workspace\StarbucksDb\Starbucks\bin\System.Web.Optimization.dll
+\\psf\Home\Documents\workspace\StarbucksDb\Starbucks\bin\System.Web.Providers.dll
+\\psf\Home\Documents\workspace\StarbucksDb\Starbucks\bin\WebGrease.dll
+\\psf\Home\Documents\workspace\StarbucksDb\Starbucks\bin\EntityFramework.xml
+\\psf\Home\Documents\workspace\StarbucksDb\Starbucks\bin\DotNetOpenAuth.Core.xml
+\\psf\Home\Documents\workspace\StarbucksDb\Starbucks\bin\DotNetOpenAuth.OAuth.xml
+\\psf\Home\Documents\workspace\StarbucksDb\Starbucks\bin\DotNetOpenAuth.OAuth.Consumer.xml
+\\psf\Home\Documents\workspace\StarbucksDb\Starbucks\bin\DotNetOpenAuth.OpenId.xml
+\\psf\Home\Documents\workspace\StarbucksDb\Starbucks\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+\\psf\Home\Documents\workspace\StarbucksDb\Starbucks\bin\DotNetOpenAuth.AspNet.xml
+\\psf\Home\Documents\workspace\StarbucksDb\Starbucks\obj\Debug\Starbucks.dll
+\\psf\Home\Documents\workspace\StarbucksDb\Starbucks\obj\Debug\Starbucks.pdb
+\\psf\Home\Documents\workspace\StarbucksDb\Starbucks\bin\GMaps.dll
+\\psf\Home\Documents\workspace\StarbucksDb\Starbucks\bin\GMap.NET.Core.dll
+\\psf\Home\Documents\workspace\StarbucksDb\Starbucks\bin\GMap.NET.WindowsPresentation.dll
+\\psf\Home\Documents\workspace\StarbucksDb\Starbucks\bin\GMap.NET.Core.xml
+\\psf\Home\Documents\workspace\StarbucksDb\Starbucks\bin\GMap.NET.WindowsPresentation.xml
+\\psf\Home\Documents\workspace\StarbucksDb\Starbucks\bin\IKVM.GNU.Classpath.dll
+\\psf\Home\Documents\workspace\StarbucksDb\Starbucks\bin\IKVM.OpenJDK.Core.dll
+\\psf\Home\Documents\workspace\StarbucksDb\Starbucks\obj\Debug\Starbucks.csprojResolveAssemblyReference.cache
+\\psf\Home\Documents\workspace\StarbucksDb\Starbucks\bin\IKVM.Runtime.dll
+\\psf\Home\Documents\workspace\StarbucksDb\Starbucks\bin\IKVM.OpenJDK.SwingAWT.dll
+\\psf\Home\Documents\workspace\StarbucksDb\Starbucks\bin\IKVM.OpenJDK.Text.dll
+\\psf\Home\Documents\workspace\StarbucksDb\Starbucks\bin\IKVM.OpenJDK.Beans.dll
+\\psf\Home\Documents\workspace\StarbucksDb\Starbucks\bin\IKVM.OpenJDK.Util.dll
+\\psf\Home\Documents\workspace\StarbucksDb\Starbucks\bin\IKVM.OpenJDK.XML.API.dll
+\\psf\Home\Documents\workspace\StarbucksDb\Starbucks\bin\IKVM.OpenJDK.Remoting.dll
+\\psf\Home\Documents\workspace\StarbucksDb\Starbucks\bin\IKVM.OpenJDK.Media.dll
+\\psf\Home\Documents\workspace\StarbucksDb\Starbucks\bin\IKVM.OpenJDK.Security.dll
+\\psf\Home\Documents\workspace\StarbucksDb\Starbucks\bin\IKVM.Runtime.JNI.dll
+\\psf\Home\Documents\workspace\StarbucksDb\Starbucks\bin\IKVM.OpenJDK.Management.dll
+\\psf\Home\Documents\workspace\StarbucksDb\Starbucks\bin\IKVM.OpenJDK.Corba.dll
+\\psf\Home\Documents\workspace\StarbucksDb\Starbucks\bin\IKVM.OpenJDK.Naming.dll
+\\psf\Home\Documents\workspace\StarbucksDb\Starbucks\bin\IKVM.OpenJDK.Misc.dll
+\\psf\Home\Documents\workspace\StarbucksDb\Starbucks\bin\IKVM.AWT.WinForms.dll
+\\psf\Home\Documents\workspace\StarbucksDb\Starbucks\bin\IKVM.OpenJDK.Charsets.dll
+\\psf\Home\Documents\workspace\StarbucksDb\Starbucks\bin\IKVM.OpenJDK.Jdbc.dll
+\\psf\Home\Documents\workspace\StarbucksDb\Starbucks\bin\decision.dll
